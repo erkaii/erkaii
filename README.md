@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm an undergraduate major in CompE.
+
 - 🔭 I’m currently working on Vulnerability Detection
 - 🌱 I’m currently learning Operating System and Vulnerability Detection
 - 👯 I’m looking to collaborate on Vulnerability Detection
