@@ -7,6 +7,6 @@
 - 📫 How to reach me: si1krow@outlook.com
 - ⚡ Fun fact: My first programming language was Pascal! I learnt the name Pascal before knowing the famous French mathematician!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silkrow&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silkrow&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silkrow&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
