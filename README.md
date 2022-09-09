@@ -9,7 +9,7 @@ I'm an undergraduate major in CompE.
 - 📫 How to reach me: si1krow@outlook.com
 - ⚡ Fun fact: My first programming language was Pascal! I learnt the name Pascal before knowing the famous French mathematician!
 
-Explore more about me on [silkrow-homepage](https://silkrow-homepage.vercel.app/)
+Explore more about me on [my homepage](https://silkrow.github.io)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silkrow&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
