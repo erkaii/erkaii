@@ -1,13 +1,14 @@
 ### Hi there 👋
 
-I'm an undergraduate major in CompE.
+I'm a CompE undergraduate in UIUC.
 
-- 🔭 I’m currently working on Vulnerability Detection
-- 🌱 I’m currently learning Operating System, Vulnerability Detection and Java programming
-- 👯 I’m looking for helpers to develop a multiplayer game
+- 🔭 I’m currently working on OS Engineering
+- 🌱 I’m currently learning operating system, database, and Java programming
+- 👯 I’m looking for helpers to develop an operating system
 - 💬 Ask me about how's my exchange life in the US!
 - 📫 How to reach me: si1krow@outlook.com
 - ⚡ Fun fact: My first programming language was Pascal! I learnt the name Pascal before knowing the famous French mathematician!
+- 📄 See my [LinkedIn](https://www.linkedin.com/in/erkai-yu-620358250/) profile if you are interested.
 
 Explore more about me on [my homepage](https://silkrow.github.io)
 
