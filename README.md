@@ -3,7 +3,7 @@
 I'm a CompE undergraduate in UIUC.
 
 - 🔭 I’m currently working on OS Engineering
-- 🌱 I’m currently learning operating system, database, and Java programming
+- 🌱 I’m currently learning operating system, database
 - 👯 I’m looking for helpers to develop an operating system
 - 💬 Ask me about how's my exchange life in the US!
 - 📫 How to reach me: si1krow@outlook.com
