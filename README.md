@@ -12,7 +12,7 @@ I'm a CompE undergraduate in UIUC.
 
 Explore more about me on [my homepage](https://silkrow.github.io)
 
-https://github-readme-streak-stats.herokuapp.com/?user=silkrow
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=silkrow&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silkrow&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
