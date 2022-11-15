@@ -12,6 +12,8 @@ I'm a CompE undergraduate in UIUC.
 
 Explore more about me on [my homepage](https://silkrow.github.io)
 
+https://github-readme-streak-stats.herokuapp.com/?user=silkrow
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silkrow&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silkrow&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
