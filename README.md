@@ -10,6 +10,12 @@ I'm a CompE undergraduate in UIUC.
 - ⚡ Fun fact: My first programming language was Pascal! I learnt the name Pascal before knowing the famous French mathematician!
 - 📄 See my [LinkedIn](https://www.linkedin.com/in/erkai-yu-620358250/) profile if you are interested.
 
+Some projects I'm interested in:
+- [ ] An OS for ECE 391 course project
+- [ ] A UIUC crime map website for CS 411 course project
+- [ ] A website for chess training
+- [ ] A diy mod for CIV 6 
+
 Explore more about me on [my homepage](https://silkrow.github.io)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=silkrow&theme=dark&background=000000)](https://git.io/streak-stats)
