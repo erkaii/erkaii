@@ -11,8 +11,8 @@ I'm a CompE undergraduate in UIUC.
 - 📄 See my [LinkedIn](https://www.linkedin.com/in/erkai-yu-620358250/) profile if you are interested.
 
 Some projects I'm interested in:
-- [ ] An OS for ECE 391 course project
-- [ ] A UIUC crime map website for CS 411 course project
+- [ ] An OS for [ECE 391](https://courses.grainger.illinois.edu/ece391/fa2022/) course project
+- [ ] A UIUC crime map website for [CS 411](https://cs.illinois.edu/academics/courses/cs411) course project
 - [ ] A website for chess training
 - [ ] A diy mod for CIV 6 
 
