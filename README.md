@@ -16,7 +16,7 @@ Some projects I'm interested in:
 - [ ] A website for chess training
 - [ ] A diy mod for CIV 6 
 
-Explore more about me on [my homepage](https://silkrow.github.io)
+Explore more about me on [my homepage]([https://silkrow.github.io](https://silkrow3.wordpress.com/))
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=silkrow&theme=dark&background=000000)](https://git.io/streak-stats)
 
