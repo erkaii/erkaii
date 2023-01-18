@@ -11,10 +11,8 @@ I'm a CompE undergraduate in UIUC.
 - 📄 See my [LinkedIn](https://www.linkedin.com/in/erkai-yu-620358250/) profile if you are interested.
 
 Some projects I'm interested in:
-- [x] An OS for [ECE 391](https://courses.grainger.illinois.edu/ece391/fa2022/) course project &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👉 [https://github.com/silkrow/ECE391_MP3](https://github.com/silkrow/ECE391_MP3)
+- [x] An OS for [ECE 391](https://courses.grainger.illinois.edu/ece391/fa2022/) course project &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👉 [https://github.com/silkrow/ECE391_MP3](https://github.com/silkrow/ECE391_MP3) (It's private for the sake of integrity)
 - [x] A UIUC crime map website for [CS 411](https://cs.illinois.edu/academics/courses/cs411) course project
-- [ ] A website for chess training
-- [ ] A diy mod for CIV 6 
 
 Explore more about me on [my homepage]([https://silkrow.github.io](https://silkrow3.wordpress.com/))
 
