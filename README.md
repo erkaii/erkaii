@@ -13,7 +13,7 @@ Some projects I'm interested in:
 - [x] An OS for [ECE 391](https://courses.grainger.illinois.edu/ece391/fa2022/) course project &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👉 [https://github.com/silkrow/ECE391_MP3](https://github.com/silkrow/ECE391_MP3) (It's private for the sake of integrity)
 - [x] A UIUC crime map website for [CS 411](https://cs.illinois.edu/academics/courses/cs411) course project &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👉 [https://github.com/cs411-alawini/fa22-cs411-A-team004-411Survive](https://github.com/cs411-alawini/fa22-cs411-A-team004-411Survive)
 
-Explore more about me on [my blog]([https://silkrow.github.io](https://silkrow3.wordpress.com/))
+Explore more about me on [my blog](https://erkaiyublog.github.io)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=silkrow&theme=dark&background=000000)](https://git.io/streak-stats)
 
