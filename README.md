@@ -4,7 +4,7 @@ I'm a CompE undergraduate in UIUC.
 
 - 🌱 I’m currently learning computer security 
 - 👯 I’m looking for helpers to develop a website
-- 💬 Ask me about how's my exchange life in the US!
+- 💬 Ask me about my exchange life in the US!
 - 📫 How to reach me: si1krow@outlook.com
 - ⚡ Fun fact: My first programming language was Pascal! I learnt the name Pascal before knowing the famous French mathematician!
 - 📄 See my [LinkedIn](https://www.linkedin.com/in/erkai-yu-620358250/) profile if you are interested.
