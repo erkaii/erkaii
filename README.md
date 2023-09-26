@@ -11,7 +11,6 @@ I'm a CompE undergraduate in UIUC.
 Some projects I'm interested in:
 - [x] An OS for [ECE 391](https://courses.grainger.illinois.edu/ece391/fa2022/) course project &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👉 [https://391os-demo.vercel.app/](https://391os-demo.vercel.app/)
 - [x] A UIUC crime map website for [CS 411](https://cs.illinois.edu/academics/courses/cs411) course project &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👉 [https://github.com/cs411-alawini/fa22-cs411-A-team004-411Survive](https://github.com/cs411-alawini/fa22-cs411-A-team004-411Survive)
-- [ ] Developing a 2D game.
 
 Explore more about me on [my blog](https://erkaiyublog.github.io)
 
