@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm a CompE undergraduate in UIUC.
+I'm a CompE undergraduate at UIUC.
 
-- 🌱 I’m currently learning parallel programming.
+- 🌱 I’m currently learning software analysis.
 - 💬 Ask me about my exchange life in the US!
 - 📫 How to reach me: si1krow@outlook.com
 - ⚡ Fun fact: My first programming language was Pascal! I learnt the name Pascal before knowing the famous French mathematician!
