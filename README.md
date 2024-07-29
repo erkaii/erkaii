@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a CompE undergraduate at UIUC.
+I'm a master's student in Computer Science at UIUC.
 
 - 🌱 I’m currently learning software analysis.
 - 💬 Ask me about my exchange life in the US!
