@@ -2,10 +2,10 @@
 
 I'm a master's student in Computer Science at UIUC.
 
-- 🌱 I’m currently learning software analysis.
+- 🌱 I’m currently learning distributed systems.
 - 💬 I'm interested in learning natural languages. 
 - 📫 How to reach me: si1krow at outlook dot com
-- ⚡ Fun fact: My first programming language was Pascal! I learnt the name Pascal before knowing the famous French mathematician!
+- ⚡ Fun fact: My first programming language was Pascal! I learned the name Pascal before knowing the famous French mathematician!
 - 📄 See my [LinkedIn](https://www.linkedin.com/in/erkai-yu-620358250/) profile if you are interested.
 
 Some projects I'm interested in:
