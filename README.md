@@ -11,7 +11,6 @@ I'm a master's student in Computer Science at UIUC.
 
 Some projects I'm interested in:
 - [x] An OS for [ECE 391](https://courses.grainger.illinois.edu/ece391/fa2022/) course project &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👉 [https://391os-demo.vercel.app/](https://391os-demo.vercel.app/)
-- [x] A UIUC crime map website for [CS 411](https://cs.illinois.edu/academics/courses/cs411) course project &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👉 [https://github.com/cs411-alawini/fa22-cs411-A-team004-411Survive](https://github.com/cs411-alawini/fa22-cs411-A-team004-411Survive)
 - [x] A chess engine that can beat me 👉 [silkfish](https://lichess.org/@/silkfish) || [First time it beat me](https://lichess.org/fZtUEDorMPqe) || [source code](https://github.com/erkaii/silkfish)
 
 Explore more about me on [my blog](https://erkaiyublog.github.io)
