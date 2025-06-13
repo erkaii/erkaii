@@ -2,7 +2,7 @@
 
 I'm a master's student in Computer Science at UIUC.
 
-- 🌱 I’m currently learning concurrent programming languages.
+- 🌱 I’m always learning.
 - 💬 I'm interested in learning natural languages.
 - ♟️ I like playing chess.
 - 📫 How to reach me: si1krow at outlook dot com
