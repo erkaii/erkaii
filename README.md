@@ -14,7 +14,3 @@ Some projects I'm interested in:
 - [x] A chess engine that can beat me 👉 [silkfish](https://lichess.org/@/silkfish) || [First time it beat me](https://lichess.org/fZtUEDorMPqe) || [source code](https://github.com/erkaii/silkfish)
 
 Explore more about me on [my blog](https://erkaiyublog.github.io)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erkaii&count_private=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erkaii&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
